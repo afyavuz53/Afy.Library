@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Afy.Library.WebUI", "Afy.Library.WebUI\Afy.Library.WebUI.csproj", "{812EAE49-2C9D-4F75-BD44-5C45466EAF81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{812EAE49-2C9D-4F75-BD44-5C45466EAF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812EAE49-2C9D-4F75-BD44-5C45466EAF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812EAE49-2C9D-4F75-BD44-5C45466EAF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812EAE49-2C9D-4F75-BD44-5C45466EAF81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3282482-AA02-4876-80A1-06CF61A2E039}
+	EndGlobalSection
+EndGlobal
